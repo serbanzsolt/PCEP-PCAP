@@ -31,3 +31,17 @@ print(f"{len(lista)} hosszú a tömb")
 
 lista.pop()
 print(lista)
+
+print(2+3*5.)
+vals  = []
+print(len(vals))
+
+one = []
+print(len(one))
+two = one
+print(len(one), len(two))
+two.append(1)
+two.append(2)
+two.append(3)
+print(len(one), len(two))
+print(one, two, sep=" | ")
