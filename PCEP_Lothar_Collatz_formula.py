@@ -14,5 +14,3 @@ else:
     print(f"{step_counter}. Step: {num}")
 
 print(f"Total steps: {step_counter}")
-    
-
