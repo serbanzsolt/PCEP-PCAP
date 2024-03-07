@@ -27,4 +27,5 @@ vals.insert(0, 1)
 del vals[1]
 print(sum(vals))
 
+elvalaszto()
 # 04 - How many elements the list contains
