@@ -21,6 +21,7 @@ def substract (a, b):
 substract(5,2)
 substract(5,b=2)
 # substract(a=5,2) This will generate error
+substract(a=10, b=2)
 
 # Tricky one
 def intro (a, b="Bond"):
